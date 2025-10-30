@@ -1,5 +1,5 @@
-<nav class="fixed top-0 left-0 right-0 bg-white border-b border-gray-200 flex justify-center p-5 z-40">
-    <div class="w-full max-w-[1500px] flex justify-between items-center">
+<nav class="fixed top-0 left-0 right-0 bg-white border-b border-gray-200 flex justify-center px-5 py-3 z-40">
+    <div class="w-full max-w-[1300px] flex justify-between items-center">
         <div class="flex items-center gap-10">
             <span>Logo</span>
             <div class="hidden md:flex items-center gap-5">

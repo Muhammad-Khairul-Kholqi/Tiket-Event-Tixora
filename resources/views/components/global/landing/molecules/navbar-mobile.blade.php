@@ -1,6 +1,6 @@
 <div id="mobile-menu" class="hidden fixed inset-0 bg-white z-50 overflow-y-auto">
     <div class="flex flex-col h-full">
-        <div class="flex justify-between items-center p-5 border-b border-gray-200">
+        <div class="flex justify-between items-center px-5 py-3 border-b border-gray-200">
             <span>Logo</span>
             <button id="close-menu-btn">
                 <x-heroicon-o-x-mark class="w-6 h-6" />

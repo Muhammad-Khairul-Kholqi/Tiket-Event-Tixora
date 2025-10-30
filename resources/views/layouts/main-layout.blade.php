@@ -9,7 +9,7 @@
 </head>
 <body>
     @include('components.global.landing.navbar')
-    <main>
+    <main class="mt-17">
         @yield('content-landing')
     </main>
 </body>
