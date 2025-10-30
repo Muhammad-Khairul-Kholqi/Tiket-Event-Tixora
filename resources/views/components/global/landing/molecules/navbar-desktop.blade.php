@@ -1,8 +1,8 @@
 <nav class="fixed top-0 left-0 right-0 bg-white border-b border-gray-200 flex justify-center px-5 py-3 z-40">
     <div class="w-full max-w-[1300px] flex justify-between items-center">
-        <div class="flex items-center gap-10">
+        <div class="flex items-center gap-7">
             <span>Logo</span>
-            <div class="hidden md:flex items-center gap-5">
+            <div class="hidden md:flex items-center gap-4">
                 <a href="" class="hover:text-yellow-500 transition-colors">Beranda</a>
                 <a href="" class="hover:text-yellow-500 transition-colors">Event</a>
                 <a href="" class="hover:text-yellow-500 transition-colors">Trending</a>
