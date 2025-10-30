@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="text-blue-600 text-3xl font-bold">ini layoutnya landing page</h1>
+    @include('components.global.landing.navbar')
     <main>
         @yield('content-landing')
     </main>
